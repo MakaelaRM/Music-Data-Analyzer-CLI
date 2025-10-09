@@ -132,4 +132,3 @@ Select an option:
 
 * Java
 * Gradle
-```
