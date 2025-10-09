@@ -1,31 +1,32 @@
-Of course. Here is the fully formatted README using GitHub's Markdown syntax. You can copy the entire block of text below and paste it directly into the `README.md` file on GitHub.
-
------
-
-```markdown
 # Music Data Analyzer CLI
 
-```
+### About The Project
 
-\===========================================================
-(         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                      )
+This project is an interactive Command-Line Interface (CLI) built in Java for analyzing song and user data from CSV files. It provides a user-friendly, menu-driven system to perform various data manipulations and generate insightful statistics without needing to run separate commands for each task. This was developed as a semester-long project for my CS214 class.
+
+### Preview
+```
+===========================================================
+(         __________________________                      )
 )        ||                        ||                     (
 (        ||                        ||        (  ) )       )
 )        ||     Music Analyzer     ||         )( (        (
 (        ||          v1.0          ||        (  ) )       )
-)        ||                        ||       \_\_\_\_\_\_\_\_\_     (
+)        ||                        ||       _________     (
 (        ||                        ||    .-'---------|    )
-)        *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* ( c  Java 20 |    (
-(       / ==**oooo**==\_\_\_ooooo-+ o //    ` -.         |    ) )      /  oooo   ______  ooooo    //       '_________'    ( (     /         /_____/          /'          `-------'     )
-)     \`-------------------------'                         (
+)        *__________________________*   ( c  Java 20 |    (
+(       / ==__oooo__==___ooooo-+ o //    `-.         |    )
+)      /  oooo   ______  ooooo    //       '_________'    (
+(     /         /_____/          /'         `-------'     )
+)     `-------------------------'                         (
 (                                                         )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-````
+1 - Load Folder
+2 - Exit
+
+Select an option: 
 ```
-
-### About The Project
-
-This project is an interactive Command-Line Interface (CLI) built in Java for analyzing song and user data from CSV files. It provides a user-friendly, menu-driven system to perform various data manipulations and generate insightful statistics without needing to run separate commands for each task. This was developed as a semester-long project for a CS214 course.
 
 ---
 
@@ -48,7 +49,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone https://github.com/your_username/your_repository_name.git
     ```
 2.  Navigate to the project directory:
     ```sh
@@ -132,4 +133,3 @@ Select an option:
 * Java
 * Gradle
 ```
-````
