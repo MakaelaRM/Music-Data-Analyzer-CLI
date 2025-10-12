@@ -2,7 +2,7 @@
 
 ### About The Project
 
-This project is an interactive Command-Line Interface (CLI) built in Java for analyzing song and user data from CSV files. It provides a user-friendly, menu-driven system to perform various data manipulations and generate insightful statistics without needing to run separate commands for each task. This was developed as a semester-long project for my CS214 class.
+This project is an interactive Command-Line Interface (CLI) built in Java for analyzing song and user data from CSV files. It provides a user-friendly, menu-driven system to perform various data manipulations and generate insightful statistics without needing to run separate commands for each task. This was developed as a semester-long project for my Software Development class (CS214).
 
 ### Preview
 ```
