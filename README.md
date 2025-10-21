@@ -125,5 +125,3 @@ Output written to: stats.csv
 
 Select an option:
 ```
-
----
