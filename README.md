@@ -127,8 +127,3 @@ Select an option:
 ```
 
 ---
-
-## Built With
-
-* Java
-* Gradle
